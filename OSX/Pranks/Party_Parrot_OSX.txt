@@ -2,7 +2,6 @@ REM Title: Party Parrot for OSX
 REM Author: Jeffrey Koopman | JKCTech
 REM Description: Shows a pretty party parrot!
 REM Target:	macOS 11.0+
-REM
 DEFAULTDELAY 250
 GUI SPACE
 STRING terminal
